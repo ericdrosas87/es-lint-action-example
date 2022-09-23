@@ -3,6 +3,7 @@ import './App.css';
 
 // test test
 console.log("hello");
+console.log("test");
 
 function App() {
   return (
